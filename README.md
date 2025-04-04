@@ -20,7 +20,7 @@
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![desktop-screenshot](path-to-desktop-screenshot.png) | ![mobile-screenshot](path-to-mobile-screenshot.png) |
+| ![desktop-screenshot](./Liveview/desktop-screenshot.png) | ![mobile-screenshot](./Liveview/mobile-screenshot.png) |
 
 ---
 
