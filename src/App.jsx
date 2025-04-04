@@ -1,7 +1,7 @@
 import React from "react";
 import { DotLottieReact } from "@lottiefiles/dotlottie-react";
 import image from "./assets/image.png";
-import CurrencyCard from "./CurrencyCard";
+import CurrencyCard from "./Components/CurrencyCard";
 
 const BentoGrid = () => {
   return (
