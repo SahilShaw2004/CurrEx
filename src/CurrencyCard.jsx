@@ -7,7 +7,7 @@ const currencies = [
   { code: "INR", name: "Indian Rupee", flag: "/assets/in-flag.png" },
 ];
 
-const API_KEY = "8e1510e4b4f3f4651d3c1cb2";
+const API_KEY = import.meta.env.VITE_EXCHANGE_RATE_API_KEY;
 
 const CurrencyCard = () => {
   const [fromCurrency, setFromCurrency] = useState(currencies[0]);
